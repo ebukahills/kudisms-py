@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='kudisms',
     packages=['kudisms'],
-    version='0.1',
+    version='1.0',
     description='A Python Library for Kudi SMS HTTP API',
     author='Ebuka Hills',
     author_email='flyg101@gmail.com',
